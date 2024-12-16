@@ -4,3 +4,5 @@
 # <h4> This is just an example. </h4> #
 # <h5> This is just an example. </h5> #
 # <h6> This is just an example. </h6> #
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
