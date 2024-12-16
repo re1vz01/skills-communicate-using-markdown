@@ -11,3 +11,8 @@
 int number = 10;
 String sentence = "Hello World!"
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the World
