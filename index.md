@@ -6,3 +6,8 @@
 # <h6> This is just an example. </h6> #
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+int number = 10;
+String sentence = "Hello World!"
+```
