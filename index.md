@@ -4,3 +4,4 @@
 #### <h4> h4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h4>
 ##### <h5> h5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h5>
 ###### <h6> h6 Lorem ipsum dolor sit amet, consectetur adipiscing elit. </h6>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
